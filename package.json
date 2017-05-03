@@ -1,0 +1,19 @@
+{
+  "name": "yetta-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lyw0149@github.com/Vinylize/Yetta-Crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinylize/Yetta-Crawler/issues"
+  },
+  "homepage": "https://github.com/Vinylize/Yetta-Crawler#readme"
+}
