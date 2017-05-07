@@ -5,7 +5,6 @@
   "scripts": {
     "start-crawler": "gulp build_jobs && ./node_modules/.bin/pm2 start ./dist/scheduler/scheduler.js",
     "stop-crawler": "./node_modules/.bin/pm2 stop ./dist/scheduler/scheduler.js",
-    "restop-crawler": "./node_modules/.bin/pm2 restart ./dist/scheduler/scheduler.js",
     "lint": "eslint --ignore-path .gitignore src"
   },
   "repository": {
